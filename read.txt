@@ -1,0 +1,13 @@
+delay                  تاخير           t      
+permission             اذن            t           
+vacation               اجازه           t           
+Paid day               يوم مدفوع الاجر   
+errand                  ماموريه         t                
+evening                   سهره         t 
+absence                    غياب         t                                
+                                    
+                                    
+                                    
+                                    
+                                    
+                                                                 
